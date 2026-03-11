@@ -1,0 +1,23 @@
+{
+    "name": "vscode-android-pack",
+    "displayName": "VSCode Android Pack",
+    "description": "VSCode安卓扩展包",
+    "version": "0.0.1",
+    "publisher": "anaer",
+    "icon": "icon.png",
+    "repository": {
+        "url": "https://github.com/anaer/vscode-pack.git"
+    },
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "anaer.vscode-base-pack",
+        "adelphes.android-dev-ext",
+        "AntonyDalmiere.android-support",
+        "naco-siren.gradle-language"
+    ]
+}

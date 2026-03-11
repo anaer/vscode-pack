@@ -1,0 +1,22 @@
+{
+    "name": "vscode-tea-lite-pack",
+    "displayName": "Javayi Pack",
+    "description": "Javayi开发包",
+    "publisher": "anaer",
+    "version": "24.612.1611",
+    "icon": "icon.png",
+    "repository": {
+        "url": "https://github.com/anaer/vscode-pack.git"
+    },
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "anaer.vscode-base-pack",
+        "redhat.java",
+        "vscjava.vscode-java-debug"
+    ]
+}

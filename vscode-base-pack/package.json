@@ -1,0 +1,23 @@
+{
+    "name": "vscode-base-pack",
+    "displayName": "Base Pack",
+    "description": "VSCode基础扩展包",
+    "version": "25.701.958",
+    "publisher": "anaer",
+    "icon": "icon.png",
+    "repository": {
+        "url": "https://github.com/anaer/vscode-pack.git"
+    },
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "esbenp.prettier-vscode",
+        "anaer.eyeshield",
+        "EditorConfig.EditorConfig",
+        "runarsf.platform-settings"
+    ]
+}
