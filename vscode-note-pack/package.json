@@ -2,7 +2,7 @@
   "name": "vscode-note-pack",
   "displayName": "Note Pack",
   "description": "VSCode笔记扩展包",
-  "version": "26.311.958",
+  "version": "26.311.1026",
   "publisher": "anaer",
   "icon": "icon.png",
   "repository": {
@@ -29,6 +29,7 @@
     "liximomo.remotefs",
     "SonarSource.sonarlint-vscode",
     "Flcwl.stockbar",
-    "EXCEEDSYSTEM.vscode-macros"
+    "EXCEEDSYSTEM.vscode-macros",
+    "asvetliakov.vscode-neovim"
   ]
 }
