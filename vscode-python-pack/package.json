@@ -1,22 +1,30 @@
 {
-    "name": "vscode-python-pack",
-    "displayName": "VSCode Python Pack",
-    "description": "Python开发包",
-    "publisher": "anaer",
-    "version": "0.0.1",
-    "icon": "icon.png",
-    "repository": {
-        "url": "https://github.com/anaer/vscode-pack.git"
-    },
-    "engines": {
-        "vscode": "^1.56.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "anaer.vscode-base-pack",
-        "ms-python.python",
-        "ms-python.vscode-pylance"
-    ]
+  "name": "vscode-python-pack",
+  "displayName": "VSCode Python Pack",
+  "description": "Python开发包",
+  "publisher": "anaer",
+  "version": "26.311.1350",
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/anaer/vscode-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Augment.vscode-augment",
+    "EditorConfig.EditorConfig",
+    "anaer.eyeshield",
+    "GitHub.copilot-chat",
+    "eamodio.gitlens",
+    "oderwat.indent-rainbow",
+    "esbenp.prettier-vscode",
+    "ms-python.vscode-pylance",
+    "ms-python.python",
+    "SonarSource.sonarlint-vscode",
+    "EXCEEDSYSTEM.vscode-macros"
+  ]
 }
