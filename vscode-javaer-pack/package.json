@@ -3,7 +3,7 @@
   "displayName": "Javaer Pack",
   "description": "Javaer开发包",
   "publisher": "anaer",
-  "version": "26.311.1027",
+  "version": "26.428.1612",
   "icon": "icon.png",
   "repository": {
     "url": "https://github.com/anaer/vscode-pack.git"
@@ -16,7 +16,6 @@
   ],
   "extensionPack": [
     "yangbaopan.vscode-java-p3c",
-    "Augment.vscode-augment",
     "vscjava.vscode-java-debug",
     "EditorConfig.EditorConfig",
     "anaer.eyeshield",
