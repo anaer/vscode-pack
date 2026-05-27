@@ -2,7 +2,7 @@
     "name": "vscode-base-pack",
     "displayName": "Base Pack",
     "description": "VSCode基础扩展包",
-    "version": "25.701.958",
+    "version": "26.527.1500",
     "publisher": "anaer",
     "icon": "icon.png",
     "repository": {
@@ -17,7 +17,6 @@
     "extensionPack": [
         "esbenp.prettier-vscode",
         "anaer.eyeshield",
-        "EditorConfig.EditorConfig",
-        "runarsf.platform-settings"
+        "EditorConfig.EditorConfig"
     ]
 }

@@ -1,8 +1,8 @@
 {
   "name": "vscode-note-pack",
-  "displayName": "Note Pack",
+  "displayName": "VSCode Note Pack",
   "description": "VSCode笔记扩展包",
-  "version": "26.511.1646",
+  "version": "26.527.1503",
   "publisher": "anaer",
   "icon": "icon.png",
   "repository": {
@@ -16,17 +16,14 @@
   ],
   "extensionDependencies": [],
   "extensionPack": [
-    "Continue.continue",
     "EditorConfig.EditorConfig",
     "anaer.eyeshield",
     "frankie.github-blogger",
-    "GitHub.copilot-chat",
     "eamodio.gitlens",
     "anweber.vscode-httpyac",
     "oderwat.indent-rainbow",
     "esbenp.prettier-vscode",
     "ms-python.vscode-pylance",
-    "SonarSource.sonarlint-vscode",
     "EXCEEDSYSTEM.vscode-macros",
     "asvetliakov.vscode-neovim"
   ]
