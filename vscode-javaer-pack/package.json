@@ -3,7 +3,7 @@
   "displayName": "Javaer Pack",
   "description": "Javaer开发包",
   "publisher": "anaer",
-  "version": "26.527.1501",
+  "version": "26.528.1321",
   "icon": "icon.png",
   "repository": {
     "url": "https://github.com/anaer/vscode-pack.git"
@@ -28,6 +28,6 @@
     "asvetliakov.vscode-neovim",
     "anweber.vscode-httpyac",
     "yzhang.markdown-all-in-one",
-    "asf.apache-netbeans-java"
+    "redhat.java"
   ]
 }
