@@ -1,5 +1,12 @@
 # Change Log
 
+## 26.826.1404
+
+- 依赖 Base Pack, 公共扩展统一由 Base Pack 提供
+- 移除冗余公共扩展: EditorConfig, eyeshield, gitlens, indent-rainbow, prettier, vscode-macros, neovim
+- 新增 Python 扩展: ms-python.python, ms-python.vscode-pylance
+- 新增 Markdown All in One
+
 ## 24.1126.1601
 
 1. 添加dynofileutils, path autocomplete

@@ -1,11 +1,23 @@
 {
     "name": "vscode-base-pack",
     "displayName": "Base Pack",
-    "description": "VSCode基础扩展包",
-    "version": "26.527.1500",
+    "description": "VSCode 基础扩展包",
+    "version": "26.826.1416",
     "publisher": "anaer",
     "icon": "icon.png",
+    "license": "MIT",
+    "keywords": [
+        "base",
+        "vscode-pack",
+        "extension-pack",
+        "基础"
+    ],
+    "galleryBanner": {
+        "color": "#007acc",
+        "theme": "dark"
+    },
     "repository": {
+        "type": "git",
         "url": "https://github.com/anaer/vscode-pack.git"
     },
     "engines": {
@@ -17,6 +29,9 @@
     "extensionPack": [
         "esbenp.prettier-vscode",
         "anaer.eyeshield",
+        "oderwat.indent-rainbow",
+        "EXCEEDSYSTEM.vscode-macros",
+        "ascenx.git-log",
         "EditorConfig.EditorConfig"
     ]
 }

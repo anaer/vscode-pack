@@ -1,11 +1,22 @@
 {
-  "name": "vscode-tea-dev-pack",
-  "displayName": "Javaer Pack",
-  "description": "Javaer开发包",
+  "name": "vscode-javaer-pack",
+  "displayName": "Javaer 开发包",
+  "description": "VSCode Javaer 扩展包",
   "publisher": "anaer",
-  "version": "26.528.1321",
+  "version": "26.826.1406",
   "icon": "icon.png",
+  "license": "MIT",
+  "keywords": [
+    "java",
+    "vscode-pack",
+    "extension-pack"
+  ],
+  "galleryBanner": {
+    "color": "#007acc",
+    "theme": "dark"
+  },
   "repository": {
+    "type": "git",
     "url": "https://github.com/anaer/vscode-pack.git"
   },
   "engines": {
@@ -15,19 +26,13 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "anaer.vscode-base-pack",
     "vscjava.vscode-java-debug",
-    "EditorConfig.EditorConfig",
-    "anaer.eyeshield",
-    "GitHub.copilot-chat",
-    "eamodio.gitlens",
-    "oderwat.indent-rainbow",
     "vscjava.vscode-lombok",
     "vscjava.vscode-maven",
-    "esbenp.prettier-vscode",
-    "EXCEEDSYSTEM.vscode-macros",
-    "asvetliakov.vscode-neovim",
-    "anweber.vscode-httpyac",
-    "yzhang.markdown-all-in-one",
     "redhat.java"
+  ],
+  "extensionDependencies": [
+    "anaer.vscode-base-pack"
   ]
 }

@@ -1,11 +1,24 @@
 {
   "name": "vscode-note-pack",
   "displayName": "VSCode Note Pack",
-  "description": "VSCode笔记扩展包",
-  "version": "26.527.1503",
+  "description": "VSCode 笔记扩展包",
+  "version": "26.826.1404",
   "publisher": "anaer",
   "icon": "icon.png",
+  "license": "MIT",
+  "keywords": [
+    "note",
+    "markdown",
+    "blog",
+    "vscode-pack",
+    "extension-pack"
+  ],
+  "galleryBanner": {
+    "color": "#007acc",
+    "theme": "dark"
+  },
   "repository": {
+    "type": "git",
     "url": "https://github.com/anaer/vscode-pack.git"
   },
   "engines": {
@@ -14,17 +27,15 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionDependencies": [],
+  "extensionDependencies": [
+    "anaer.vscode-base-pack"
+  ],
   "extensionPack": [
-    "EditorConfig.EditorConfig",
-    "anaer.eyeshield",
+    "anaer.vscode-base-pack",
     "frankie.github-blogger",
-    "eamodio.gitlens",
     "anweber.vscode-httpyac",
-    "oderwat.indent-rainbow",
-    "esbenp.prettier-vscode",
     "ms-python.vscode-pylance",
-    "EXCEEDSYSTEM.vscode-macros",
-    "asvetliakov.vscode-neovim"
+    "ms-python.python",
+    "yzhang.markdown-all-in-one"
   ]
 }

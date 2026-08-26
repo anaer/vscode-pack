@@ -1,5 +1,11 @@
 # Change Log
 
+## 26.826.1416
+
+- 添加 indent-rainbow 缩进彩虹
+- 添加 vscode-macros 宏命令
+- 添加 git-log 提交历史查看
+
 ## 24.613.1032
 
 - 删除fileutils

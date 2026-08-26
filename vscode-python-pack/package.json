@@ -1,11 +1,22 @@
 {
   "name": "vscode-python-pack",
   "displayName": "VSCode Python Pack",
-  "description": "Python开发包",
+  "description": "VSCode Python 扩展包",
   "publisher": "anaer",
-  "version": "26.527.1503",
+  "version": "26.826.1407",
   "icon": "icon.png",
+  "license": "MIT",
+  "keywords": [
+    "python",
+    "vscode-pack",
+    "extension-pack"
+  ],
+  "galleryBanner": {
+    "color": "#007acc",
+    "theme": "dark"
+  },
   "repository": {
+    "type": "git",
     "url": "https://github.com/anaer/vscode-pack.git"
   },
   "engines": {
@@ -15,13 +26,11 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "EditorConfig.EditorConfig",
-    "anaer.eyeshield",
-    "eamodio.gitlens",
-    "oderwat.indent-rainbow",
-    "esbenp.prettier-vscode",
+    "anaer.vscode-base-pack",
     "ms-python.vscode-pylance",
-    "ms-python.python",
-    "EXCEEDSYSTEM.vscode-macros"
+    "ms-python.python"
+  ],
+  "extensionDependencies": [
+    "anaer.vscode-base-pack"
   ]
 }

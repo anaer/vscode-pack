@@ -8,6 +8,8 @@
   - 代码格式化
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
   - 格式化配置
+- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+  - 缩进着色, 便于识别缩进层级
 
 ## 其他
 
@@ -15,6 +17,10 @@
   - 护眼主题
 - [platform-settings](https://marketplace.visualstudio.com/items?itemName=runarsf.platform-settings)
   - 平台配置
+- [Macros](https://marketplace.visualstudio.com/items?itemName=EXCEEDSYSTEM.vscode-macros)
+  - 宏命令, 录制并回放多步操作
+- [Git Log](https://marketplace.visualstudio.com/items?itemName=ascenx.git-log)
+  - 图形化查看 Git 提交历史
 
 ## 待定
 

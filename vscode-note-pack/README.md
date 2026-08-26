@@ -9,6 +9,10 @@
 
 ## 编程相关
 
+- [📦 Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+  - Python 语言包
+- [📦 Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
+  - Python 语言服务
 - [httpYac - Rest Client](https://marketplace.visualstudio.com/items?itemName=anweber.vscode-httpyac)
   - Http API测试工具 功能相比Rest Client多一点
 
@@ -19,6 +23,8 @@
 
 - [VSCode Base Pack](https://marketplace.visualstudio.com/items?itemName=anaer.vscode-base-pack)
   - 包含常用的一些扩展
+- [GitHub Blogger](https://marketplace.visualstudio.com/items?itemName=frankie.github-blogger)
+  - 发布 Markdown 笔记到 GitHub
 
 <details>
 <summary> 待定 </summary>

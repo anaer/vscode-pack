@@ -1,5 +1,11 @@
 # Change Log
 
+## 26.826.1406
+
+- 依赖 Base Pack, 公共扩展统一由 Base Pack 提供
+- 移除冗余公共扩展: EditorConfig, eyeshield, copilot-chat, gitlens, indent-rainbow, prettier, vscode-macros, neovim, httpyac, markdown-all-in-one
+- 保留 Java 相关扩展: java-debug, lombok, maven, redhat.java
+
 ## 0.2.0(20240509)
 
 - 修改图标和名称
